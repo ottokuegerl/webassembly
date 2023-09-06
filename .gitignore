@@ -1,6 +1,7 @@
 ######################
 # credentials        #
 ######################
+credentials.h
 credentials.*
 ######################
 # OS generated files #
@@ -30,7 +31,7 @@ Thumbs.db
 *.dylib
 *.dll
 
-# Fortran module files
+# Fortran module files1
 *.mod
 *.smod
 
