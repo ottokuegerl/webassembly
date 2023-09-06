@@ -9,6 +9,8 @@ class ARUBAAP172FA : public QObject
     Q_OBJECT
 
     // define property: current2FA to use it within QML
+    // getter getCurrent2FA()
+    // setter setCurrent2FA()
     Q_PROPERTY(QString current2FA READ getCurrent2FA WRITE setCurrent2FA NOTIFY current2FAChanged)
 
 public:
