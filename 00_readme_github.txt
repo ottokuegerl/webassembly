@@ -52,4 +52,9 @@
 
 *) push changes to remote github repository
    git push origin main
+   
+   check branch
+   git branch
+   
+   git push origin wpl_vcs:main
 

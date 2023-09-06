@@ -1,3 +1,17 @@
+######################
+# credentials        #
+######################
+credentials.*
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 # Prerequisites
 *.d
 
