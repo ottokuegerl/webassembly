@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcppotp.a CMakeFiles/cppotp.dir/src/libcppotp/bytes.cpp.o CMakeFiles/cppotp.dir/src/libcppotp/otp.cpp.o CMakeFiles/cppotp.dir/src/libcppotp/sha1.cpp.o
+/usr/bin/ranlib libcppotp.a

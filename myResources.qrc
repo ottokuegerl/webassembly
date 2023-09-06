@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/ai_duck_03_2_round.ico</file>
+        <file>ui/assets/ai_duck_03_2_round.png</file>
+        <file>ui/assets/dancing_banana.gif</file>
+        <file>ui/assets/gears_02.gif</file>
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/BottomBar/WPLTime.qml</file>
+        <file>ui/MainRect/CircleRotation.qml</file>
+        <file>ui/MainRect/MainRect.qml</file>
+        <file>ui/assets/RammettoOne-Regular.ttf</file>
+        <file>ui/CoolButton.qml</file>
+        <file>ui/assets/a1_gears_round.png</file>
+        <file>ui/assets/down.png</file>
+        <file>ui/assets/up.png</file>
+        <file>ui/assets/ai_duck_05_round.png</file>
+        <file>ui/assets/left.png</file>
+        <file>ui/assets/right.png</file>
+        <file>ui/ArubaWindow/ArubaWindow.qml</file>
+        <file>ui/HAWindow/HAWindow.qml</file>
+        <file>ui/AboutWindow/AboutWindow.qml</file>
+        <file>ui/assets/ai_duck_00_1_round.png</file>
+        <file>ui/assets/ai_duck_09_round.png</file>
+    </qresource>
+</RCC>

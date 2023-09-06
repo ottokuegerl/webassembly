@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -rdynamic CMakeFiles/gauche.dir/src/gauche.cpp.o -o gauche  libcppotp.a 
