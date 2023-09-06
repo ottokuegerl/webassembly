@@ -7,8 +7,10 @@ class ANDROID_PHOTO : public QObject
 {
     Q_OBJECT
 
+    // ######################################################
     // To call a C++ function "myFunction()" from QML,
     // you need to expose the C++ object to the QML context
+    // ######################################################
 public:
     Q_INVOKABLE void myFunction();
 
